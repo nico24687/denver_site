@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.badge-success{
+  background-color:#5cb85c;
+}
+
+.badge-danger{
+  background-color: #d9534f;
+}
+
+.read-more{
+  float: right;
+}
